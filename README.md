@@ -1,3 +1,4 @@
 # My-first-demo
-My first git repository 
-author- Devyani Thakur 
+My first git repository.
+<br>
+Author- Devyani Thakur 
